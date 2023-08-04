@@ -1,0 +1,7 @@
+// switch node for MAC OS
+source ~/.bash_profile
+nvm use 18
+
+// switch node for Windows
+
+// switch node for Linux
