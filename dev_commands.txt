@@ -1,6 +1,6 @@
 // switch node for MAC OS
 source ~/.bash_profile
-nvm use 18
+nvm use 16.16.0
 
 // switch node for Windows
 
